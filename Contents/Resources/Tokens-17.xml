@@ -1,0 +1,2356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+  <Token>
+    <TokenIdentifier>
+      <Name>qualifiedBeanOfType(BeanFactory, Class&amp;lt;T&amp;gt;, String)</Name>
+      <Type>clm</Type>
+      <Scope>BeanFactoryAnnotationUtils</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/beans/factory/annotation/BeanFactoryAnnotationUtils.html</Path>
+    <Anchor>qualifiedBeanOfType(org.springframework.beans.factory.BeanFactory, java.lang.Class, java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QualifiedIdentifier</Name>
+      <Type>cl</Type>
+      <Scope>org.springframework.expression.spel.ast</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/expression/spel/ast/QualifiedIdentifier.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QualifiedIdentifier(int, SpelNodeImpl...)</Name>
+      <Type>Constructor</Type>
+      <Scope>QualifiedIdentifier</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/expression/spel/ast/QualifiedIdentifier.html</Path>
+    <Anchor>QualifiedIdentifier(int, org.springframework.expression.spel.ast.SpelNodeImpl...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>Qualifier</Name>
+      <Type>clm</Type>
+      <Scope>org.springframework.beans.factory.annotation</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/beans/factory/annotation/Qualifier.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QUALIFIER_ATTRIBUTE_ELEMENT</Name>
+      <Type>Field</Type>
+      <Scope>BeanDefinitionParserDelegate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.html</Path>
+    <Anchor>QUALIFIER_ATTRIBUTE_ELEMENT</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QUALIFIER_ELEMENT</Name>
+      <Type>Field</Type>
+      <Scope>BeanDefinitionParserDelegate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.html</Path>
+    <Anchor>QUALIFIER_ELEMENT</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QualifierAnnotationAutowireCandidateResolver</Name>
+      <Type>cl</Type>
+      <Scope>org.springframework.beans.factory.annotation</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/beans/factory/annotation/QualifierAnnotationAutowireCandidateResolver.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QualifierAnnotationAutowireCandidateResolver()</Name>
+      <Type>Constructor</Type>
+      <Scope>QualifierAnnotationAutowireCandidateResolver</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/beans/factory/annotation/QualifierAnnotationAutowireCandidateResolver.html</Path>
+    <Anchor>QualifierAnnotationAutowireCandidateResolver()</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QualifierAnnotationAutowireCandidateResolver(Class&amp;lt;? extends Annotation&amp;gt;)</Name>
+      <Type>Constructor</Type>
+      <Scope>QualifierAnnotationAutowireCandidateResolver</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/beans/factory/annotation/QualifierAnnotationAutowireCandidateResolver.html</Path>
+    <Anchor>QualifierAnnotationAutowireCandidateResolver(java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QualifierAnnotationAutowireCandidateResolver(Set&amp;lt;Class&amp;lt;? extends Annotation&amp;gt;&amp;gt;)</Name>
+      <Type>Constructor</Type>
+      <Scope>QualifierAnnotationAutowireCandidateResolver</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/beans/factory/annotation/QualifierAnnotationAutowireCandidateResolver.html</Path>
+    <Anchor>QualifierAnnotationAutowireCandidateResolver(java.util.Set)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QualifierEntry</Name>
+      <Type>cl</Type>
+      <Scope>org.springframework.beans.factory.parsing</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/beans/factory/parsing/QualifierEntry.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QualifierEntry(String)</Name>
+      <Type>Constructor</Type>
+      <Scope>QualifierEntry</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/beans/factory/parsing/QualifierEntry.html</Path>
+    <Anchor>QualifierEntry(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QUALITY_VALUE_COMPARATOR</Name>
+      <Type>Field</Type>
+      <Scope>MediaType</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/http/MediaType.html</Path>
+    <Anchor>QUALITY_VALUE_COMPARATOR</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QuartzJobBean</Name>
+      <Type>cl</Type>
+      <Scope>org.springframework.scheduling.quartz</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/scheduling/quartz/QuartzJobBean.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QuartzJobBean()</Name>
+      <Type>Constructor</Type>
+      <Scope>QuartzJobBean</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/scheduling/quartz/QuartzJobBean.html</Path>
+    <Anchor>QuartzJobBean()</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowCallbackHandler)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(PreparedStatementCreator, ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(org.springframework.jdbc.core.PreparedStatementCreator, org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, PreparedStatementSetter, ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.PreparedStatementSetter, org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Object[], int[], ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, java.lang.Object[], int[], org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Object[], ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, java.lang.Object[], org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, ResultSetExtractor&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.ResultSetExtractor, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(PreparedStatementCreator, RowCallbackHandler)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(org.springframework.jdbc.core.PreparedStatementCreator, org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, PreparedStatementSetter, RowCallbackHandler)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.PreparedStatementSetter, org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Object[], int[], RowCallbackHandler)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, java.lang.Object[], int[], org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Object[], RowCallbackHandler)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, java.lang.Object[], org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowCallbackHandler, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowCallbackHandler, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(PreparedStatementCreator, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(org.springframework.jdbc.core.PreparedStatementCreator, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, PreparedStatementSetter, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.PreparedStatementSetter, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Object[], int[], RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, java.lang.Object[], int[], org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Object[], RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, java.lang.Object[], org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowMapper&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowMapper, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowCallbackHandler)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(PreparedStatementCreator, PreparedStatementSetter, ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(org.springframework.jdbc.core.PreparedStatementCreator, org.springframework.jdbc.core.PreparedStatementSetter, org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(PreparedStatementCreator, ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(org.springframework.jdbc.core.PreparedStatementCreator, org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, PreparedStatementSetter, ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.PreparedStatementSetter, org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Object[], int[], ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, java.lang.Object[], int[], org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Object[], ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, java.lang.Object[], org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, ResultSetExtractor&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.ResultSetExtractor, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(PreparedStatementCreator, RowCallbackHandler)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(org.springframework.jdbc.core.PreparedStatementCreator, org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, PreparedStatementSetter, RowCallbackHandler)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.PreparedStatementSetter, org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Object[], int[], RowCallbackHandler)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, java.lang.Object[], int[], org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Object[], RowCallbackHandler)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, java.lang.Object[], org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowCallbackHandler, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowCallbackHandler, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(PreparedStatementCreator, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(org.springframework.jdbc.core.PreparedStatementCreator, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, PreparedStatementSetter, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.PreparedStatementSetter, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Object[], int[], RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, java.lang.Object[], int[], org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Object[], RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, java.lang.Object[], org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowMapper&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowMapper, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, SqlParameterSource, ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource, org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Map&amp;lt;String, ?&amp;gt;, ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, java.util.Map, org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, SqlParameterSource, RowCallbackHandler)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource, org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Map&amp;lt;String, ?&amp;gt;, RowCallbackHandler)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, java.util.Map, org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, SqlParameterSource, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Map&amp;lt;String, ?&amp;gt;, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, java.util.Map, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, SqlParameterSource, ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource, org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Map&amp;lt;String, ?&amp;gt;, ResultSetExtractor&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, java.util.Map, org.springframework.jdbc.core.ResultSetExtractor)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, SqlParameterSource, RowCallbackHandler)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource, org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Map&amp;lt;String, ?&amp;gt;, RowCallbackHandler)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, java.util.Map, org.springframework.jdbc.core.RowCallbackHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, SqlParameterSource, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, Map&amp;lt;String, ?&amp;gt;, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, java.util.Map, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowMapper&amp;lt;T&amp;gt;, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowMapper, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, ParameterizedRowMapper&amp;lt;T&amp;gt;, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.simple.ParameterizedRowMapper, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowMapper&amp;lt;T&amp;gt;, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowMapper, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, ParameterizedRowMapper&amp;lt;T&amp;gt;, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.simple.ParameterizedRowMapper, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowMapper&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowMapper, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, ParameterizedRowMapper&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.simple.ParameterizedRowMapper, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowMapper&amp;lt;T&amp;gt;, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowMapper, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, ParameterizedRowMapper&amp;lt;T&amp;gt;, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.simple.ParameterizedRowMapper, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowMapper&amp;lt;T&amp;gt;, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowMapper, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, ParameterizedRowMapper&amp;lt;T&amp;gt;, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.simple.ParameterizedRowMapper, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, RowMapper&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.RowMapper, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String, ParameterizedRowMapper&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>query(java.lang.String, org.springframework.jdbc.core.simple.ParameterizedRowMapper, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>query(String)</Name>
+      <Type>instm</Type>
+      <Scope>UriComponentsBuilder</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/web/util/UriComponentsBuilder.html</Path>
+    <Anchor>query(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForInt(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, Object[], int[])</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForInt(java.lang.String, java.lang.Object[], int[])</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForInt(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForInt(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, Object[], int[])</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForInt(java.lang.String, java.lang.Object[], int[])</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForInt(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForInt(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForInt(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForInt(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForInt(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForInt(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForInt(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForInt(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForInt(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForInt(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForInt(String, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForInt(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Class&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object[], int[], Class&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object[], int[], java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object[], Class&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object[], java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Class&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Class, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object[], int[])</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object[], int[])</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Class&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object[], int[], Class&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object[], int[], java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object[], Class&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object[], java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Class&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Class, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object[], int[])</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object[], int[])</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, SqlParameterSource, Class&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource, java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Map&amp;lt;String, ?&amp;gt;, Class&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, java.util.Map, java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, SqlParameterSource, Class&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource, java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Map&amp;lt;String, ?&amp;gt;, Class&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, java.util.Map, java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String)</Name>
+      <Type>intfm</Type>
+      <Scope>SqlMapClientOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientOperations.html</Path>
+    <Anchor>queryForList(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object)</Name>
+      <Type>intfm</Type>
+      <Scope>SqlMapClientOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, int, int)</Name>
+      <Type>intfm</Type>
+      <Scope>SqlMapClientOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, int, int)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object, int, int)</Name>
+      <Type>intfm</Type>
+      <Scope>SqlMapClientOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientOperations.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object, int, int)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String)</Name>
+      <Type>instm</Type>
+      <Scope>SqlMapClientTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object)</Name>
+      <Type>instm</Type>
+      <Scope>SqlMapClientTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, int, int)</Name>
+      <Type>instm</Type>
+      <Scope>SqlMapClientTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, int, int)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForList(String, Object, int, int)</Name>
+      <Type>instm</Type>
+      <Scope>SqlMapClientTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientTemplate.html</Path>
+    <Anchor>queryForList(java.lang.String, java.lang.Object, int, int)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForLong(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, Object[], int[])</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForLong(java.lang.String, java.lang.Object[], int[])</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForLong(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForLong(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, Object[], int[])</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForLong(java.lang.String, java.lang.Object[], int[])</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForLong(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForLong(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForLong(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForLong(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForLong(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForLong(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForLong(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForLong(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForLong(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForLong(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForLong(String, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForLong(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForMap(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Object[], int[])</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.lang.Object[], int[])</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForMap(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Object[], int[])</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.lang.Object[], int[])</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForMap(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForMap(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForMap(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForMap(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Object, String)</Name>
+      <Type>intfm</Type>
+      <Scope>SqlMapClientOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientOperations.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.lang.Object, java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Object, String, String)</Name>
+      <Type>intfm</Type>
+      <Scope>SqlMapClientOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientOperations.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.lang.Object, java.lang.String, java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Object, String)</Name>
+      <Type>instm</Type>
+      <Scope>SqlMapClientTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientTemplate.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.lang.Object, java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForMap(String, Object, String, String)</Name>
+      <Type>instm</Type>
+      <Scope>SqlMapClientTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientTemplate.html</Path>
+    <Anchor>queryForMap(java.lang.String, java.lang.Object, java.lang.String, java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Class&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Object[], int[], RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Object[], int[], org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Object[], RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Object[], org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, RowMapper&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.RowMapper, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Object[], int[], Class&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Object[], int[], java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Object[], Class&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Object[], java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Class&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Class, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Class&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Object[], int[], RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Object[], int[], org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Object[], RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Object[], org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, RowMapper&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.RowMapper, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Object[], int[], Class&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Object[], int[], java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Object[], Class&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Object[], java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Class&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Class, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, SqlParameterSource, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Map&amp;lt;String, ?&amp;gt;, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.util.Map, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, SqlParameterSource, Class&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource, java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Map&amp;lt;String, ?&amp;gt;, Class&amp;lt;T&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.util.Map, java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, SqlParameterSource, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Map&amp;lt;String, ?&amp;gt;, RowMapper&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.util.Map, org.springframework.jdbc.core.RowMapper)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, SqlParameterSource, Class&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource, java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Map&amp;lt;String, ?&amp;gt;, Class&amp;lt;T&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.util.Map, java.lang.Class)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Class&amp;lt;T&amp;gt;, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Class, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Class&amp;lt;T&amp;gt;, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Class, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Class&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Class, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, RowMapper&amp;lt;T&amp;gt;, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.RowMapper, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, ParameterizedRowMapper&amp;lt;T&amp;gt;, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.simple.ParameterizedRowMapper, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, RowMapper&amp;lt;T&amp;gt;, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.RowMapper, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, ParameterizedRowMapper&amp;lt;T&amp;gt;, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.simple.ParameterizedRowMapper, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, RowMapper&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.RowMapper, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, ParameterizedRowMapper&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>SimpleJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.simple.ParameterizedRowMapper, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Class&amp;lt;T&amp;gt;, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Class, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Class&amp;lt;T&amp;gt;, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Class, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Class&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Class, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, RowMapper&amp;lt;T&amp;gt;, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.RowMapper, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, ParameterizedRowMapper&amp;lt;T&amp;gt;, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.simple.ParameterizedRowMapper, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, RowMapper&amp;lt;T&amp;gt;, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.RowMapper, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, ParameterizedRowMapper&amp;lt;T&amp;gt;, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.simple.ParameterizedRowMapper, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, RowMapper&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.RowMapper, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, ParameterizedRowMapper&amp;lt;T&amp;gt;, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>SimpleJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, org.springframework.jdbc.core.simple.ParameterizedRowMapper, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String)</Name>
+      <Type>intfm</Type>
+      <Scope>SqlMapClientOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Object)</Name>
+      <Type>intfm</Type>
+      <Scope>SqlMapClientOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Object)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Object, Object)</Name>
+      <Type>intfm</Type>
+      <Scope>SqlMapClientOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientOperations.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Object, java.lang.Object)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String)</Name>
+      <Type>instm</Type>
+      <Scope>SqlMapClientTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Object)</Name>
+      <Type>instm</Type>
+      <Scope>SqlMapClientTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Object)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForObject(String, Object, Object)</Name>
+      <Type>instm</Type>
+      <Scope>SqlMapClientTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientTemplate.html</Path>
+    <Anchor>queryForObject(java.lang.String, java.lang.Object, java.lang.Object)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForRowSet(String)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForRowSet(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForRowSet(String, Object[], int[])</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForRowSet(java.lang.String, java.lang.Object[], int[])</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForRowSet(String, Object...)</Name>
+      <Type>intfm</Type>
+      <Scope>JdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcOperations.html</Path>
+    <Anchor>queryForRowSet(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForRowSet(String)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForRowSet(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForRowSet(String, Object[], int[])</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForRowSet(java.lang.String, java.lang.Object[], int[])</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForRowSet(String, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>JdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/JdbcTemplate.html</Path>
+    <Anchor>queryForRowSet(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForRowSet(String, SqlParameterSource)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForRowSet(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForRowSet(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>intfm</Type>
+      <Scope>NamedParameterJdbcOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.html</Path>
+    <Anchor>queryForRowSet(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForRowSet(String, SqlParameterSource)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForRowSet(java.lang.String, org.springframework.jdbc.core.namedparam.SqlParameterSource)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryForRowSet(String, Map&amp;lt;String, ?&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>NamedParameterJdbcTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.html</Path>
+    <Anchor>queryForRowSet(java.lang.String, java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryParam(String, Object...)</Name>
+      <Type>instm</Type>
+      <Scope>UriComponentsBuilder</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/web/util/UriComponentsBuilder.html</Path>
+    <Anchor>queryParam(java.lang.String, java.lang.Object...)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryProperties(Map&amp;lt;String, Object&amp;gt;)</Name>
+      <Type>instm</Type>
+      <Scope>RedirectView</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/web/servlet/view/RedirectView.html</Path>
+    <Anchor>queryProperties(java.util.Map)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QueryTimeoutException</Name>
+      <Type>Exception</Type>
+      <Scope>org.springframework.dao</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/dao/QueryTimeoutException.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QueryTimeoutException(String)</Name>
+      <Type>Constructor</Type>
+      <Scope>QueryTimeoutException</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/dao/QueryTimeoutException.html</Path>
+    <Anchor>QueryTimeoutException(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QueryTimeoutException(String, Throwable)</Name>
+      <Type>Constructor</Type>
+      <Scope>QueryTimeoutException</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/dao/QueryTimeoutException.html</Path>
+    <Anchor>QueryTimeoutException(java.lang.String, java.lang.Throwable)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryWithRowHandler(String, RowHandler)</Name>
+      <Type>intfm</Type>
+      <Scope>SqlMapClientOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientOperations.html</Path>
+    <Anchor>queryWithRowHandler(java.lang.String, com.ibatis.sqlmap.client.event.RowHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryWithRowHandler(String, Object, RowHandler)</Name>
+      <Type>intfm</Type>
+      <Scope>SqlMapClientOperations</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientOperations.html</Path>
+    <Anchor>queryWithRowHandler(java.lang.String, java.lang.Object, com.ibatis.sqlmap.client.event.RowHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryWithRowHandler(String, RowHandler)</Name>
+      <Type>instm</Type>
+      <Scope>SqlMapClientTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientTemplate.html</Path>
+    <Anchor>queryWithRowHandler(java.lang.String, com.ibatis.sqlmap.client.event.RowHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>queryWithRowHandler(String, Object, RowHandler)</Name>
+      <Type>instm</Type>
+      <Scope>SqlMapClientTemplate</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/orm/ibatis/SqlMapClientTemplate.html</Path>
+    <Anchor>queryWithRowHandler(java.lang.String, java.lang.Object, com.ibatis.sqlmap.client.event.RowHandler)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QuickTargetSourceCreator</Name>
+      <Type>cl</Type>
+      <Scope>org.springframework.aop.framework.autoproxy.target</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/aop/framework/autoproxy/target/QuickTargetSourceCreator.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>QuickTargetSourceCreator()</Name>
+      <Type>Constructor</Type>
+      <Scope>QuickTargetSourceCreator</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/aop/framework/autoproxy/target/QuickTargetSourceCreator.html</Path>
+    <Anchor>QuickTargetSourceCreator()</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>quote(String)</Name>
+      <Type>clm</Type>
+      <Scope>StringUtils</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/util/StringUtils.html</Path>
+    <Anchor>quote(java.lang.String)</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>quoteIfString(Object)</Name>
+      <Type>clm</Type>
+      <Scope>StringUtils</Scope>
+      <APILanguage>java</APILanguage>
+    </TokenIdentifier>
+    <Path>api/org/springframework/util/StringUtils.html</Path>
+    <Anchor>quoteIfString(java.lang.Object)</Anchor>
+  </Token>
+</Tokens>
